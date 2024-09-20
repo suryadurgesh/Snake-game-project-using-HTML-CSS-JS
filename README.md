@@ -1,6 +1,8 @@
 
 ### Snake game Project
 
+![](https://github.com/suryadurgesh/Snake-game-project-using-HTML-CSS-JS/blob/271e8118cad93ea4ada1aa97733c41996ad01efc/Screenshot%202024-09-20%20193924.png)
+
 ```markdown
 # Snake Game 🐍🎮
 
